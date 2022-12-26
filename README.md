@@ -1,1 +1,1 @@
-# Projects
+# Privacy Policy Generator
