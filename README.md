@@ -18,11 +18,11 @@ using this project, you can make your own privacy policies for your customers in
 
 ## Help
 
-### To install python
+> To install python
 
 #### Go to https://python.org/
 
-### To install packages of python
+> To install packages of python
 
 use following command in cmd or code editor console
 
